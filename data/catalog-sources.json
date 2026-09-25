@@ -1,0 +1,590 @@
+[
+  {
+    "id": "dancefloor",
+    "catalog": "https://anilist.co/manga/122993",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122993-nN4zX8LqGrox.jpg",
+    "filename": "dancefloor.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "assorted-entanglements",
+    "catalog": "https://anilist.co/manga/108070",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108070-3GnX9L4fikHG.jpg",
+    "filename": "assorted-entanglements.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "dying-day",
+    "catalog": "https://anilist.co/manga/104045",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104045-uUwe9V8nG56B.png",
+    "filename": "dying-day.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "monster",
+    "catalog": "https://anilist.co/manga/123777",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123777-sdb3Fts3FlVH.jpg",
+    "filename": "monster.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "rainy-night",
+    "catalog": "https://anilist.co/manga/136109",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136109-h4mux2toQJkD.jpg",
+    "filename": "rainy-night.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "sisters-friend",
+    "catalog": "https://anilist.co/manga/136609",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136609-AdvRb8gFtZow.png",
+    "filename": "sisters-friend.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "married-friend",
+    "catalog": "https://anilist.co/manga/126292",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126292-Eb07hNWKihKy.jpg",
+    "filename": "married-friend.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "sweet-guilty",
+    "catalog": "https://anilist.co/manga/51138",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51138-bWfzqxNKk2P6.png",
+    "filename": "sweet-guilty.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "yotsuba",
+    "catalog": "https://anilist.co/manga/30104",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30104-sUVzNlTWZ5cu.jpg",
+    "filename": "yotsuba.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "goodbye-eri",
+    "catalog": "https://anilist.co/manga/146983",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146983-pLf4apCkFwKL.jpg",
+    "filename": "goodbye-eri.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "fujimoto-22-26",
+    "catalog": "https://anilist.co/manga/141157",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141157-ILmgH9puHckH.jpg",
+    "filename": "fujimoto-22-26.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "summer",
+    "catalog": "https://anilist.co/manga/136774",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136774-AQRT7gDS86Xk.jpg",
+    "filename": "summer.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "love-triangle",
+    "catalog": "https://anilist.co/manga/114970",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114970-i7kL6VgDrKgM.jpg",
+    "filename": "love-triangle.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "wishing-star",
+    "catalog": "https://anilist.co/manga/159925",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159925-1SnVY04JmOwE.png",
+    "filename": "wishing-star.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "wasnt-a-guy",
+    "catalog": "https://anilist.co/manga/149544",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
+    "filename": "wasnt-a-guy.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "sayaka",
+    "catalog": "https://anilist.co/manga/105388",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105388-uFrx5ADXp5EN.jpg",
+    "filename": "sayaka.webp",
+    "imageType": "Catalogue artwork, not a photograph of the owned edition"
+  },
+  {
+    "id": "same-dream",
+    "catalog": "https://www.penguinrandomhouse.com/books/701487/i-had-that-same-dream-again-light-novel-by-yoru-sumino/",
+    "image": "https://images.penguinrandomhouse.com/cover/9781645054399",
+    "filename": "same-dream.webp",
+    "imageType": "Catalogue/product image"
+  },
+  {
+    "id": "saber-last-episode",
+    "catalog": "https://www.goodsmile.info/en/product/4809",
+    "image": "https://images.goodsmile.info/cgm/images/product/20141225/4809/31964/large/4c11c927163c82d9587c64666f793d6d.jpg",
+    "filename": "saber-last-episode.webp",
+    "imageType": "Catalogue/product image"
+  },
+  {
+    "id": "saber-avalon",
+    "catalog": "https://www.goodsmile.com/en/product/57700",
+    "image": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57700/N7MUz5uAVdEecG063Dyqpw8jtsXHRTxr.jpg",
+    "filename": "saber-avalon.webp",
+    "imageType": "Catalogue/product image"
+  },
+  {
+    "id": "divine-comedy",
+    "catalog": "https://www.planetebd.com/manga/soleil/la-divine-comedie/-/47200.html",
+    "image": "https://static.planetebd.com/dynamicImages/album/cover/normal/47/20/album-cover-normal-47200.jpg",
+    "filename": "divine-comedy.webp",
+    "imageType": "Catalogue artwork"
+  },
+  {
+    "id": "saber-winter",
+    "catalog": "https://figuretopia.com/product/1-6-scale-saber-artoria-pendragon-winter-night-fate-stay-night-resin-statue-quietart-studio/",
+    "image": "https://figuretopia.com/wp-content/uploads/2026/09/dadd921c839be6f87e0e714067a1352d-500x667.webp",
+    "filename": "saber-winter.webp",
+    "imageType": "Retailer product photo"
+  },
+  {
+    "id": "saber-pajamas",
+    "catalog": "https://figurememo.com/product/fate-zero-altria-pendragon-1-7-saber-pajama-ver-wing",
+    "image": "https://assets.figurememo.com/products/mfc/166896/850736-794166.jpeg",
+    "filename": "saber-pajamas.webp",
+    "imageType": "Product photo"
+  },
+  {
+    "id": "fate-anniversary",
+    "catalog": "https://jp.mercari.com/item/m27797188520",
+    "image": "https://static.mercdn.net/item/detail/orig/photos/m27797188520_1.jpg?1771916289",
+    "filename": "fate-anniversary.webp",
+    "imageType": "Marketplace listing photo; background cropped"
+  },
+  {
+    "id": "artoria-painting",
+    "catalog": "https://www.ukiyoework.com/view/item/000000000172?category_page_id=fgo",
+    "image": "https://makeshop-multi-images.akamaized.net/ukiyoework/itemimages/000000000172_MtwegPH.jpg",
+    "filename": "artoria-painting.webp",
+    "imageType": "Product photo; white margin cropped, frame preserved"
+  },
+  {
+    "id": "garden-words",
+    "catalog": "https://www.manga-news.com/index.php/manga/Garden-of-words-Coffret",
+    "image": "https://images.epagine.fr/817/9782820318817_1_75.jpg",
+    "filename": "garden-words.webp",
+    "imageType": "Catalogue image of the Kazé limited manga + novel box; ISBN 9782820318817"
+  },
+  {
+    "id": "ayame-girly-plush",
+    "catalog": "https://shop.geekjack.net/products/hololive-friends-with-u-nakiri-ayame-girly-outfit?variant=48206041776374",
+    "variantId": "48206041776374",
+    "variantTitle": "Default Title",
+    "filename": "ayame-girly-plush-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_67yfZXn6TGnaSLU.jpg?v=1746736105",
+    "sourceFile": "IMG_1348.jpg",
+    "sourceSHA256": "fddcb2a6fe99152fb862ca3a7e3b15f65c677629d7c25e54b999acd02887a730",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-plush",
+    "catalog": "https://shop.geekjack.net/products/hololive-friends-with-u-nakiri-ayame-re?variant=46472630010102",
+    "variantId": "46472630010102",
+    "variantTitle": "Default Title",
+    "filename": "ayame-plush-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/fJ7EC31xZ9vZJt5k.jpg?v=1713833338",
+    "sourceFile": "IMG_1351.jpg",
+    "sourceSHA256": "189131e47067ff5b6aac96dfb15a24546c4ab23424093f5cab642d48d25c882c",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-to-go",
+    "catalog": "https://shop.geekjack.net/products/hololive-friends-to-go-gen-2?variant=47033106039030",
+    "variantId": "47033106039030",
+    "variantTitle": "Nakiri Ayame",
+    "filename": "ayame-to-go-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/K9PkM9z9bJ9myMm.jpg?v=1721689006",
+    "sourceFile": "IMG_1349.jpg",
+    "sourceSHA256": "3a4c78c4e69e784b31bc8f1a9f5999cbadd06bb6666a2e1ea554a8cef6c309c8",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayafubumi-new-year",
+    "catalog": "https://shop.geekjack.net/products/ayafubumis-laid-back-new-year-merchandise-acrylic-panel?variant=45778933678326",
+    "variantId": "45778933678326",
+    "variantTitle": "Default Title",
+    "filename": "ayafubumi-new-year-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/f430fBd88jSCtH9m.jpg?v=1703841496",
+    "sourceFile": "IMG_1353.jpg",
+    "sourceSHA256": "0106a39e62cf29cf98c74962dd15517dfa8b49df8696bbe0ab75110abba6f0c7",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-pixel-shirt",
+    "catalog": "https://shop.geekjack.net/products/hololive-connect-hololive-pixel-art-generation-2-colored-ver-t-shirt?variant=47682306375926",
+    "variantId": "47682306375926",
+    "variantTitle": "Nakiri Ayame L",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_mGMUTW7suV2NVPJn9AzD.jpg?v=1737088462",
+    "filename": "ayame-pixel-shirt.webp",
+    "imageType": "Retailer product image; selected variant where available"
+  },
+  {
+    "id": "ayame-hoodie",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-re-released-edition-merch-hoodie-re-released-edition?variant=49904087793910",
+    "variantId": "49904087793910",
+    "variantTitle": "Default Title",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_ZEetM2Wgewpt7iP.jpg?v=1770084910",
+    "filename": "ayame-hoodie.webp",
+    "imageType": "Retailer product image; selected variant where available"
+  },
+  {
+    "id": "ayafubumi-song-stand",
+    "catalog": "https://shop.geekjack.net/products/ayafubumi-new-song-release-commemoration-acrylic-stand?variant=50113882063094",
+    "variantId": "50113882063094",
+    "variantTitle": "Nakiri Ayame",
+    "filename": "ayafubumi-song-stand-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/DD1F147VMLgZzjs5.jpg?v=1773963814",
+    "sourceFile": "IMG_1357.jpg",
+    "sourceSHA256": "9ec738c64aa7ee8af1f6d779d6ba0faa5bb019dd941283fdc94b66fecdcef57c",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-birthday-2024-panel",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-holographic-acrylic-panel",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "filename": "ayame-birthday-2024-panel-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_MRgr025bf6m0dDTJ.jpg?v=1734074578",
+    "sourceFile": "IMG_1354.jpg",
+    "sourceSHA256": "35ceee4604ebebc0835e5c6624eb8ffe19b38f6782b0bdaed048fe3d3dc307b8",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-birthday-2024-keychain",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-plushie-keychain-shrine-maiden-ver",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "filename": "ayame-birthday-2024-keychain-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_iYV2cI78568xK1Vz.jpg?v=1734074582",
+    "sourceFile": "IMG_1350.jpg",
+    "sourceSHA256": "4889424a2efc20fa4ef4bbc1c1975bac16bc6ab2d5b0e31a4c03b0c30c487caf",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-birthday-2024-bag",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-nakiri-gangs-crossbody-bag",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_KoJT32mLD1BTIC9e.jpg?v=1734074585",
+    "filename": "ayame-birthday-2024-bag.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2024-towel",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-poyoyo-hoodie-towel",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/MkFZxwJ5aCsEbc2I.jpg?v=1734074590",
+    "filename": "ayame-birthday-2024-towel.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2024-card",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-celebration-2024-merch-complete-set-limited-edition?variant=47563744477430",
+    "filename": "ayame-birthday-2024-card-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_I6boOfdBD6pnroXh.jpg?v=1734074553",
+    "sourceFile": "IMG_1346.jpg",
+    "sourceSHA256": "2f3f9ba57f84e589f0ca8fd468a2b8d706e3935455b16dc8f9b0db588c909256",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-anniversary-7-screen",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-desktop-folding-screen",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_WJC3yHBBuz7W6kn8R6bQ.jpg?v=1756873342",
+    "filename": "ayame-anniversary-7-screen.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-7-teacup",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-teacup",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/nn9CNSRSLaEnEHppdnGd.jpg?v=1756873341",
+    "filename": "ayame-anniversary-7-teacup.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-7-fan",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-folding-fan",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/mMPRtJzpSb3payZffdCf.jpg?v=1756873341",
+    "filename": "ayame-anniversary-7-fan.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-7-light",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-desktop-light",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_uGcMKMtazigwRR46JLrn.jpg?v=1756873341",
+    "filename": "ayame-anniversary-7-light.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-7-card",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-7th-anniversary-merch-complete-set-limited-edition?variant=49028774658294",
+    "filename": "ayame-anniversary-7-card-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_iHKQwFxdypV8mMV7wArY.jpg?v=1756873432",
+    "sourceFile": "IMG_1340.jpg",
+    "sourceSHA256": "88c798f4cc109d60f845fc29be5d28531a3e3c3aeae2aef9815cd0ee1743b4c9",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0.09,
+      0.12,
+      0.9,
+      0.94
+    ]
+  },
+  {
+    "id": "ayame-birthday-2025-tapestry",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-b2-tapestry",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/ZLsBdGenc4cW6ZsxhhS3.jpg?v=1765604298",
+    "filename": "ayame-birthday-2025-tapestry.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2025-shirt",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-t-shirt",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/yKJupz7DsKGFtTfgxyJ5.jpg?v=1765604277",
+    "filename": "ayame-birthday-2025-shirt.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2025-cushion",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-ayame-face-cushion",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/AbE9gJBAfZGydXkd9DMx.jpg?v=1765604254",
+    "filename": "ayame-birthday-2025-cushion.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2025-eyewear",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-poyoyo-eyewear-stand",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/Jn3mcTsFBsKMZxWps2r7.jpg?v=1765604230",
+    "filename": "ayame-birthday-2025-eyewear.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-birthday-2025-card",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-birthday-2025-merch-complete-set-limited-edition?variant=49782882402550",
+    "filename": "ayame-birthday-2025-card-owned.webp",
+    "imageType": "Owner photograph",
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_efidWNVcETwxL58EBtHK.jpg?v=1765604443",
+    "sourceFile": "IMG_1347.jpg",
+    "sourceSHA256": "0f1de4989e158ece4ed6802e64ddcefa2b7425ca7e56df1291228b3a5d034980",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0.085,
+      0.102,
+      0.908,
+      0.952
+    ]
+  },
+  {
+    "id": "ayame-anniversary-8-mirror",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-8th-anniversary-pub-mirror",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/X662wRS5JIDiBhxF.jpg?v=1788420685",
+    "filename": "ayame-anniversary-8-mirror.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-8-guards",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-sword-guard-asura-and-rakshasa",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_r215ZAVl2Ajt6L7G.jpg?v=1788420689",
+    "filename": "ayame-anniversary-8-guards.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-8-pouch",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-standard-outfit-motif-drawstring-pouch",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/lnN6cYR3RKLmp5ej.jpg?v=1788420695",
+    "filename": "ayame-anniversary-8-pouch.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-8-purse",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-celestial-maiden-outfit-motif-coin-purse",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/VoTv9yffwTdyEgPO.jpg?v=1788420698",
+    "filename": "ayame-anniversary-8-purse.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "ayame-anniversary-8-card",
+    "catalog": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "ownershipSource": "https://shop.geekjack.net/products/nakiri-ayame-8th-anniversary-merch-complete-set-limited-edition?variant=51572937851126",
+    "image": "https://cdn.shopify.com/s/files/1/0525/9585/1443/files/EN_naFx6FlR7ukCCXWV.jpg?v=1788420641",
+    "filename": "ayame-anniversary-8-card.webp",
+    "imageType": "Retailer product preview; not a photograph of the owned copy"
+  },
+  {
+    "id": "saber-gift-plush",
+    "catalog": "https://www.gift-gift.jp/nui/nui547.html",
+    "image": "https://www.gift-gift.jp/nui/files/images/nui547_01.jpg",
+    "filename": "saber-gift-plush.webp",
+    "imageType": "Official Gift product photo",
+    "retailerTitleReference": "https://www.aitaikuji.com/fatestay-night-heavens-feel-special-gift-plush-saber"
+  },
+  {
+    "id": "ayame-anniversary-3-card",
+    "sourceFile": "IMG_1342.jpg",
+    "sourceSHA256": "ed79bfaeabbb2749abebc0103fb6d93f46eb3b1af091cf734f72f2e668d1611e",
+    "filename": "ayame-anniversary-3-card-owned.webp",
+    "imageType": "Owner photograph",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0.014,
+      0.064,
+      0.978,
+      0.999
+    ],
+    "catalog": "https://hololive.booth.pm/items/3314916"
+  },
+  {
+    "id": "ayame-anniversary-2-letter",
+    "sourceFile": "IMG_1343.jpg",
+    "sourceSHA256": "232f1324b33a5bb24b988d6272458f76a8d28b1f947a371853df468e2fe8b1cf",
+    "filename": "ayame-anniversary-2-letter-owned.webp",
+    "imageType": "Owner photograph",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "catalog": "https://hololive.booth.pm/items/2309046"
+  },
+  {
+    "id": "ayame-birthday-2020-card",
+    "sourceFile": "IMG_1345.jpg",
+    "sourceSHA256": "f829922a0683ea54c43286fcd758bf5b67533c698c15a68a4ade96a2f6814475",
+    "filename": "ayame-birthday-2020-card-owned.webp",
+    "imageType": "Owner photograph",
+    "processing": "Conservative edge crop and WebP resize; no color, signature or artwork retouching; metadata omitted",
+    "cropNormalized": [
+      0.008,
+      0.03,
+      0.995,
+      0.995
+    ],
+    "catalog": "https://hololive.booth.pm/items/2586180"
+  },
+  {
+    "id": "ayame-kindergarten-puppet",
+    "catalog": "https://www.navitoworld.com/products/hololive-production-furyu-puppet-plush-toy?variant=49468361474335",
+    "filename": "ayame-kindergarten-puppet-owned.webp",
+    "imageType": "Owner photograph",
+    "variantId": 49468361474335,
+    "catalogImage": "https://cdn.shopify.com/s/files/1/0697/5089/files/FR36489_Puppet_Plush_Toy_-Nakiri_Ayame_Kindergarten_Uniform_ver.jpg?v=1727821466",
+    "sourceFile": "IMG_1352.jpg",
+    "sourceSHA256": "04a7d10f4c6b79250e2838e414e04353ed8eaaf6f5dc6d01e22a08e0a03e636a",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "ayame-onikawaii-stand",
+    "sourceFile": "IMG_1355.jpg",
+    "sourceSHA256": "d148ac94a965a1ff659efdc61acdf94edfb7f6945d123d0b9f572399455efeba",
+    "filename": "ayame-onikawaii-stand-owned.webp",
+    "imageType": "Owner photograph",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "catalog": "https://www.animate.co.jp/onlyshop/35581/"
+  },
+  {
+    "id": "ayame-fun-day-out-stand",
+    "sourceFile": "IMG_1356.jpg",
+    "sourceSHA256": "5176306a9f9769839e715ef64aae27c5d704c018ab41681b03588593ae615bf9",
+    "filename": "ayame-fun-day-out-stand-owned.webp",
+    "imageType": "Owner photograph",
+    "processing": "Original framing retained; WebP resize to at most 1600 pixels; metadata omitted; no artwork or color retouching",
+    "cropNormalized": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "catalog": "https://shop.hololivepro.com/en/products/situationhololive_afundayout_vol3?variant=44509428056284"
+  }
+]

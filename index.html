@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Zerotistic’s manga, light novel, figurine and miscellaneous collection.">
+  <meta name="theme-color" content="#111110">
+  <title>Collection · zerotistic</title>
+  <link rel="icon" href="./assets/favicon.svg"><link rel="stylesheet" href="./style.css">
+  <script>try { document.documentElement.dataset.theme = localStorage.getItem('collection-theme') || 'dark'; } catch {}</script>
+</head>
+<body>
+  <div class="avalon-background" aria-hidden="true"></div>
+  <a class="skip" href="#collection">Skip to collection</a>
+  <header class="site-header"><div class="header-inner">
+    <a class="wordmark" href="./"><span class="mark" aria-hidden="true">z.</span> zerotistic <span>/ collection</span></a>
+    <div class="header-actions"><a href="https://zerotistic.blog/">blog ↗</a><button id="theme" class="icon-button" aria-label="Switch to light theme" title="Switch theme"></button></div>
+  </div></header>
+  <div class="page">
+    <aside class="sidebar" aria-label="Collection navigation">
+      <p class="nav-label">LIBRARY</p>
+      <div class="status-filters" role="group" aria-label="Ownership status">
+        <button data-status="all" aria-pressed="true"><span>All entries</span><span class="count"></span></button>
+        <button data-status="owned" aria-pressed="false"><span>Owned</span><span class="count"></span></button>
+        <button data-status="wishlist" aria-pressed="false"><span>Wishlist</span><span class="count"></span></button>
+      </div>
+      <div class="sidebar-companion"><button id="companion" aria-label="Say hello to Artoria"><img src="./assets/artoria-waving.webp" alt="Artoria waving" width="100" height="130"><span id="companion-remark" role="status" hidden></span></button></div>
+    </aside>
+    <main id="collection">
+      <div class="collection-heading"><h1>collection<span class="heading-dot">.</span></h1><span id="inventory-summary"></span></div>
+      <div class="filters" role="group" aria-label="Collection category"><button data-category="all" aria-pressed="true"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>All <span></span></button><button data-category="manga" aria-pressed="false"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14v18H5a2 2 0 0 1 0-4h14M5 3a2 2 0 0 0-2 2v14M7 7h8M7 10h6"/></svg>Manga <span></span></button><button data-category="light-novels" aria-pressed="false"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5c-3-2-6-2-9-1v15c3-1 6-1 9 1 3-2 6-2 9-1V4c-3-1-6-1-9 1v15"/></svg>Light novels <span></span></button><button data-category="figurines" aria-pressed="false"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="5" r="3"/><path d="m9 9-3 8h12l-3-8M10 17v4m4-4v4M6 21h12"/></svg>Figurines <span></span></button><button data-category="vtuber-merch" aria-pressed="false"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-3-5.6 3 1.1-6.2L3 9.6l6.2-.9Z"/></svg>VTuber merch <span></span></button><button data-category="misc" aria-pressed="false"><svg class="category-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 7 9-4 9 4v10l-9 4-9-4Zm0 0 9 4 9-4M12 11v10M7.5 5 17 9"/></svg>Misc <span></span></button></div>
+      <div class="toolbar">
+        <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input type="search" id="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Search" aria-label="Search collection"><kbd>/</kbd></label>
+        <select id="mobile-status" aria-label="Ownership status"><option value="all">All</option><option value="owned">Owned</option><option value="wishlist">Wishlist</option></select>
+        <div class="tools"><label class="sort-label"><span>Sort</span><svg class="sort-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h11M4 18h6m7-3 3 3 3-3m-3-9v12"/></svg><select id="sort" aria-label="Sort collection"><option value="default">Category</option><option value="title">Title A–Z</option><option value="title-desc">Title Z–A</option></select></label><div class="view-options" role="group" aria-label="Collection layout"><button class="icon-button" id="grid-view" aria-label="Grid view" aria-pressed="true" title="Grid view"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></button><button class="icon-button" id="list-view" aria-label="List view" aria-pressed="false" title="List view"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h12M9 12h12M9 18h12M3 6h1M3 12h1M3 18h1"/></svg></button></div></div>
+      </div>
+      <div class="results-line"><p id="results" role="status" aria-live="polite"></p><span id="data-note">Reference titles · ownership unconfirmed</span></div>
+      <div id="items" class="items"></div>
+      <div id="empty" hidden><h2>No entries</h2><p id="empty-description"></p><button id="reset">Clear filters</button></div>
+      <noscript><p>Enable JavaScript to browse the collection.</p></noscript>
+    </main>
+  </div>
+  <dialog id="detail" aria-labelledby="detail-title"><button class="icon-button close" aria-label="Close details" autofocus>✕</button><div id="detail-content"></div></dialog>
+  <dialog id="image-viewer" aria-label="Enlarged artwork"><button id="close-image" class="icon-button" aria-label="Close image" autofocus>✕</button><img id="enlarged-image" alt=""></dialog>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
